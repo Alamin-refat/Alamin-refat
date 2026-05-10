@@ -1,57 +1,109 @@
-# Hi there, I'm Alamin Refat! 👋
-### Data Analyst | Aspiring AI/ML Engineer 🚀
+<h1 align="center">Hi 👋, I'm Alamin Refat</h1>
+<h3 align="center">Data Analyst | Aspiring AI/ML Engineer from Bangladesh 🇧🇩</h3>
 
-I am a passionate Data Analyst transitioning into the world of Artificial Intelligence and Machine Learning. With a background in Civil Engineering and a strong foundation in Data Analytics, I am now focusing on building intelligent systems and scalable ML models.
-
----
-
-### 🛠 My Tech Stack
-
-- **Data Analytics:** Python (Pandas, NumPy), SQL, Advanced Excel, Power BI, Tableau
-- **Machine Learning:** Scikit-Learn, XGBoost, Logistic Regression, Supervised Learning
-- **Deep Learning:** Neural Networks (Currently Learning)
-- **Deployment & Tools:** Streamlit, Flask, Git, GitHub, Power Query
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;AI%2FML+Engineer+Learner;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
+</p>
 
 ---
 
-### 📈 What I'm Working On
+## 🚀 About Me
 
-- 🔭 **Current Focus:** Transitioning from Data Insights to Model Engineering.
-- 🌱 **Learning:** Deep Learning architectures and MLOps.
-- ⚡ **Fun Fact:** I love solving complex problems on HackerRank and Kaggle.
-
----
-
-### 🏆 Technical Achievements
-
-- ⭐ **SQL:** 5-Star Coder on HackerRank.
-- 🐍 **Python:** Certified/Badged on Kaggle.
-- 📊 **Completed Projects:** End-to-End ML deployment and interactive Power BI/Excel dashboards.
+- 📊 Currently working on **Data Analysis & AI/ML Projects**
+- 🤖 Learning **Machine Learning, Deep Learning & Generative AI**
+- 🧠 Interested in **NLP, Computer Vision & LLM Applications**
+- 💻 Building projects using **Python, Pandas, Scikit-learn & Streamlit**
+- 🌱 Currently exploring **MLOps & LangChain**
+- ⚡ Fun fact: I enjoy turning data into meaningful insights
 
 ---
 
-### 🚀 Featured ML & Data Projects
+## 🛠️ Tech Stack
 
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **Student Score Prediction** | Python, ML, Streamlit | [View Repo](https://github.com/your-username/student-score-prediction) |
-| **Customer Churn Analysis** | XGBoost, Logistic Regression | [View Repo](https://github.com/your-username/customer-churn) |
-| **Road Accident Dashboard** | MS Excel, Data Cleaning | [View Repo](https://github.com/your-username/road-accident-analysis) |
-| **Weather Dashboard** | Power BI, DAX | [View Repo](https://github.com/your-username/weather-dashboard) |
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
+
+### 📚 Data Science & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🌐 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+### 📊 Data Analysis Projects
+- 📈 Sales Data Dashboard
+- 🛒 Customer Segmentation Analysis
+- 📉 EDA on Real-world Datasets
+
+### 🤖 Machine Learning Projects
+- 🏠 House Price Prediction
+- 📧 Spam Email Detection
+- 💳 Fraud Detection System
+
+### 🧠 AI/LLM Projects
+- 📄 AI Resume Analyzer
+- 🤖 PDF Chatbot using LangChain
+- 🧠 Bengali NLP Mini Projects
 
 ---
 
-### 📫 Let's Connect!
+## 📈 GitHub Stats
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Kaggle:** [kaggle.com/your-username](https://kaggle.com/your-username)
-- **Portfolio:** [Link to your website/blog]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+</p>
 
 ---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Current Goals
+
+✅ Build strong ML fundamentals  
+✅ Create end-to-end AI projects  
+✅ Learn Deep Learning & LLMs  
+✅ Contribute to Open Source  
+✅ Become an AI/ML Engineer 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
