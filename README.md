@@ -205,13 +205,11 @@ Interactive Power BI dashboard for weather insights.
 
 # 📈 GITHUB ANALYTICS
 
-</div>
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alamin-refat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=BB86FC"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alamin-refat&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=BB86FC&fire=BB86FC&currStreakLabel=00F7FF"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Alamin-refat&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=BB86FC&fire=BB86FC&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -219,7 +217,7 @@ Interactive Power BI dashboard for weather insights.
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-refat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-refat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
 </div>
 
