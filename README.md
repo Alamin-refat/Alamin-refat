@@ -62,7 +62,7 @@ class AlaminRefat:
 
 <td width="40%">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRtNHRkcjJ5MGR3NmY5Z3NjcmQ3M2I4eW9kY2t6bTRqNXd4M2txNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
 
 </td>
 </tr>
