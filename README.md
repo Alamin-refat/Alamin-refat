@@ -217,7 +217,7 @@ Interactive Power BI dashboard for weather insights.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-refat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-refat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
 </div>
 
