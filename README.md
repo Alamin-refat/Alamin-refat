@@ -18,7 +18,9 @@
 
 # 🌌 ABOUT ME
 
-<img align="right" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRtNHRkcjJ5MGR3NmY5Z3NjcmQ3M2I4eW9kY2t6bTRqNXd4M2txNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class AlaminRefat:
@@ -55,6 +57,16 @@ class AlaminRefat:
     def goal(self):
         return "Become a world-class AI/ML Engineer 🚀"
 ```
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
