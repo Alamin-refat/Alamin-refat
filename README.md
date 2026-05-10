@@ -1,26 +1,22 @@
 <div align="center">
 
-# ⚡ ALAMIN REFAT ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:1A0933,50:4B0082,75:00BFFF,100:00F7FF&text=ALAMIN%20REFAT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%E2%86%92%20AI%2FML%20ENGINEER&descAlignY=58&descAlign=50"/>
 
-### `Data Analyst → AI/ML Engineer`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Solutions;Solving+Real+World+Problems;Turning+Data+Into+Intelligence;Machine+Learning+Enthusiast;Future+AI%2FML+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+AI+Solutions+⚡;Turning+Data+Into+Intelligence+🧠;Machine+Learning+Enthusiast+🤖;Future+AI%2FML+Engineer+🚀;Always+Learning+New+Things+🔥"/>
 
 </div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:3B0A45,75:0F52BA,100:00F7FF&height=320&section=header&text=ALAMIN%20REFAT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%E2%86%92%20AI%2FML%20Engineer&descAlignY=60&descAlign=50"/>
-</p>
+<div align="center">
 
----
+# ⚡ `SYSTEM.INITIALIZE()`
 
-# 🌌 ABOUT ME
+</div>
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%">
 
 ```python
 class AlaminRefat:
@@ -31,19 +27,29 @@ class AlaminRefat:
 
         self.role = "Data Analyst → AI/ML Engineer"
 
-        self.about = [
-            "Building intelligent AI solutions",
-            "Turning data into real insights",
-            "Learning advanced AI/ML technologies",
-            "Creating real-world ML projects"
-        ]
-
         self.languages = [
             "Python",
             "C",
             "C++",
             "PHP",
             "SQL"
+        ]
+
+        self.ai_stack = [
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "TensorFlow",
+            "PyTorch",
+            "Streamlit"
+        ]
+
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Docker",
+            "Power BI"
         ]
 
         self.current_learning = [
@@ -54,15 +60,19 @@ class AlaminRefat:
             "Deep Learning"
         ]
 
-    def goal(self):
-        return "Become a world-class AI/ML Engineer 🚀"
+    def life_goal(self):
+        return "Turning Data Into Intelligence ⚡"
 ```
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3N6dWZ0N2Nrd3VqN2VjNDBnM2R0OHY4d2MwYjBqYmx6N3A0bTR2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+</div>
 
 </td>
 </tr>
@@ -70,29 +80,52 @@ class AlaminRefat:
 
 ---
 
-# ⚡ CURRENT FOCUS
-
-- 🤖 Building AI & ML Projects
-- 📊 Solving Real-World Data Problems
-- 🧠 Learning LLMs & Generative AI
-- 🚀 Exploring MLOps & LangChain
-- 💡 Creating Intelligent Applications
-
----
-
-# 🛠 TECH STACK
+# 🌌 ABOUT ME
 
 <div align="center">
 
-## 👨‍💻 Languages
+```yaml
+Name: ALAMIN REFAT
+
+Role: Data Analyst → AI/ML Engineer
+
+Focus:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Data Analytics
+  - AI Applications
+
+Passion:
+  Building intelligent systems that solve real-world problems.
+
+Current Mission:
+  Becoming a world-class AI/ML Engineer 🚀
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚒️ TECH STACK
+
+</div>
+
+<div align="center">
+
+### 👨‍💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,php,mysql"/>
 
 ---
 
-## 🧠 Data Science & AI
+### 🧠 AI / ML / Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F7FF"/>
 
@@ -100,13 +133,13 @@ class AlaminRefat:
 
 <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
 
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=red"/>
-
 <img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow"/>
+
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=red"/>
 
 ---
 
-## ⚙️ Tools & Platforms
+### ⚙️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 
@@ -114,38 +147,65 @@ class AlaminRefat:
 
 ---
 
-# 🌠 AI/ML JOURNEY
-
-```text
-Data Analysis 📊
-      ↓
-Machine Learning 🤖
-      ↓
-Deep Learning 🧠
-      ↓
-LLMs & Generative AI ⚡
-      ↓
-AI/ML Engineer 🚀
-```
-
----
+<div align="center">
 
 # 🚀 FEATURED PROJECTS
 
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| 📊 Student Score Prediction ML | ML model to predict student performance | Python, Scikit-learn |
-| 🤖 Customer Churn Prediction | Predict customer churn using ML | Python, Pandas |
-| ⚡ Streamlit Gemini Project | AI-powered Streamlit application | Streamlit, Gemini API |
-| 🌦 Weather Data Analysis Dashboard | Interactive Power BI Dashboard | Power BI |
-
 </div>
+
+<table>
+<tr>
+<td width="50%">
+
+## 📊 Student Score Prediction ML
+Machine Learning model to predict student performance.
+
+### ⚡ Tech Used
+`Python` `Scikit-learn` `Pandas`
+
+</td>
+
+<td width="50%">
+
+## 🤖 Customer Churn Prediction
+Predict customer churn using machine learning.
+
+### ⚡ Tech Used
+`Python` `ML` `NumPy`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🌌 Streamlit Gemini Project
+AI-powered Streamlit application.
+
+### ⚡ Tech Used
+`Streamlit` `Gemini API`
+
+</td>
+
+<td width="50%">
+
+## 🌦 Weather Data Analysis Dashboard
+Interactive Power BI dashboard for weather insights.
+
+### ⚡ Tech Used
+`Power BI` `Data Analytics`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GITHUB STATS
+<div align="center">
+
+# 📈 GITHUB ANALYTICS
+
+</div>
 
 <div align="center">
 
@@ -155,65 +215,63 @@ AI/ML Engineer 🚀
 
 </div>
 
----
-
-# 📊 MOST USED LANGUAGES
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-refat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alamin-refat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# ⚡ CONTRIBUTION GRAPH
+<div align="center">
+
+# ⚡ CONTRIBUTION MATRIX
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alamin-refat&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=BB86FC&point=FFFFFF"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alamin-refat&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=BB86FC&point=FFFFFF"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 # 🌐 CONNECT WITH ME
 
-<div align="center">
-
 <a href="https://github.com/Alamin-refat">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/alaminrefat1/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 <a href="mailto:alaminrefat2017@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC"/>
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=BB86FC"/>
 </a>
 
 <a href="https://www.kaggle.com/alaminrefat">
-<img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=00F7FF"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 QUOTE
-
 <div align="center">
 
-## ⚡ *"Turning Data Into Intelligence"* ⚡
+# 💭 FINAL TRANSMISSION
 
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ---
 
-# 👀 PROFILE VIEWS
-
-<div align="center">
+## ⚡ "Turning Data Into Intelligence" ⚡
 
 <img src="https://komarev.com/ghpvc/?username=Alamin-refat&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
@@ -223,6 +281,6 @@ AI/ML Engineer 🚀
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:0B1026,50:3B0A45,75:0F52BA,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,25:1A0933,50:4B0082,75:00BFFF,100:00F7FF"/>
 
 </div>
