@@ -1,109 +1,65 @@
-<h1 align="center">Hi 👋, I'm Alamin Refat</h1>
-<h3 align="center">Data Analyst | Aspiring AI/ML Engineer from Bangladesh 🇧🇩</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Data+Analyst;AI%2FML+Engineer+Learner;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 📊 Currently working on **Data Analysis & AI/ML Projects**
-- 🤖 Learning **Machine Learning, Deep Learning & Generative AI**
-- 🧠 Interested in **NLP, Computer Vision & LLM Applications**
-- 💻 Building projects using **Python, Pandas, Scikit-learn & Streamlit**
-- 🌱 Currently exploring **MLOps & LangChain**
-- ⚡ Fun fact: I enjoy turning data into meaningful insights
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql" />
-</p>
-
-### 📚 Data Science & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### 🌐 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 📊 Data Analysis Projects
-- 📈 Sales Data Dashboard
-- 🛒 Customer Segmentation Analysis
-- 📉 EDA on Real-world Datasets
-
-### 🤖 Machine Learning Projects
-- 🏠 House Price Prediction
-- 📧 Spam Email Detection
-- 💳 Fraud Detection System
-
-### 🧠 AI/LLM Projects
-- 📄 AI Resume Analyzer
-- 🤖 PDF Chatbot using LangChain
-- 🧠 Bengali NLP Mini Projects
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Alamin%20Refat&fontSize=80&animation=fadeIn" width="100%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
-</p>
+  <h3> 🚀 Data Analyst | Transitioning to AI/ML Engineer </h3>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  </p>
+</div>
 
 ---
 
-## 📊 Most Used Languages
+### 🧑‍💻 About Me
+- 🔭 **Currently:** Working as a Data Analyst while mastering AI/ML architectures.
+- 🎓 **Background:** Civil Engineering Graduate from **UAP**.
+- 🧪 **Learning:** Neural Networks, Deep Learning (Phitron AI/ML Journey).
+- 🎯 **Goal:** Building scalable AI solutions for real-world problems.
 
+---
+
+### 🛠️ Skills & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,mysql,excel,powerbi,tableau,git,github,visualstudio,docker" />
+</div>
+
+---
+
+### 🚀 Featured Projects (AI/ML Focus)
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Student Score Prediction</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=student-score-prediction-ml&theme=radical" width="100%" />
+      <p>End-to-End ML project using Streamlit & Python.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Customer Churn Prediction</h3>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=customer-churn-prediction&theme=radical" width="100%" />
+      <p>Classification model using XGBoost & Logistic Regression.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Competitive Programming & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=vision-friendly-dark" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🧠 Current Goals
-
-✅ Build strong ML fundamentals  
-✅ Create end-to-end AI projects  
-✅ Learn Deep Learning & LLMs  
-✅ Contribute to Open Source  
-✅ Become an AI/ML Engineer 🚀
-
----
-
+### 🤝 Let's Connect
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
