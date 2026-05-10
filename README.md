@@ -161,7 +161,7 @@ Current Mission:
 Machine Learning model to predict student performance.
 
 ### ⚡ Tech Used
-`Python` `Scikit-learn` `Pandas`
+`Python` `Scikit-learn` `Pandas` `NumPy` `ML`
 
 </td>
 
@@ -171,7 +171,7 @@ Machine Learning model to predict student performance.
 Predict customer churn using machine learning.
 
 ### ⚡ Tech Used
-`Python` `ML` `NumPy`
+`Python` `ML` `NumPy` `Pandas` `Scikit-learn`
 
 </td>
 </tr>
