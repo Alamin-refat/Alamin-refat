@@ -1,4 +1,19 @@
+```yaml
+🔭 I’m currently working on:
+   Data Analysis & AI/ML Projects
 
+🌱 I’m currently learning:
+   Machine Learning, Deep Learning, LLMs, LangChain & MLOps
+
+👯 I’m looking to collaborate on:
+   Open Source AI/ML and Data Science Projects
+
+💬 Ask me about:
+   Python, SQL, Data Analysis, Machine Learning
+
+⚡ Fun fact:
+   I love turning raw data into intelligent solutions
+```
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alamin_refat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alaminrefat1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@alaminrefat2017) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Alamin-Refat-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Night_Fury_ML) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alaminrefat2017@gmail.com) 
 
